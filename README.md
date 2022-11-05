@@ -1,1 +1,1 @@
-## **LaTex for Everyone!**
+# **LaTex for Everyone!**
